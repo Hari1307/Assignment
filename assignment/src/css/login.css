@@ -1,0 +1,129 @@
+.outline {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 550px;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+}
+
+.logintext {
+    margin-left: 50px;
+}
+
+.functionalButton {
+    border: .5px solid lightblue;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+}
+
+.functionalButton:hover {
+    border: 1px solid orange;
+    border-radius: 5px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.outline h3 {
+    text-align: center;
+}
+
+.textInput label,
+.textInput input,
+.textInput button {
+    display: block;
+    margin: 20px 45px;
+}
+
+.textInput input {
+    padding: 10px;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.login button {
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    background-color: orangered;
+}
+
+.login a {
+    color: orangered;
+    text-decoration: none;
+}
+
+.adharDiv label,
+.adharDiv input {
+    display: block;
+    margin: 10px 30px;
+}
+
+.otpDiv label,
+.otpDiv input {
+    display: block;
+    margin: 10px 30px;
+}
+
+.regDiv label,
+.regDiv input,
+.regDiv button {
+    display: block;
+    margin: 10px 30px;
+}
+
+.adharDiv input {
+    padding: 10px;
+}
+
+.otpDiv input {
+    padding: 10px;
+}
+
+.regDiv input {
+    padding: 10px;
+}
+
+.radiobtn label {
+    margin-left: 23px;
+    display: block;
+    margin-top: 10px;
+}
+
+.backButton button {
+    margin: 40px;
+}
+
+.multiselect {
+    margin-left: 30px;
+    width: 190px;
+}
+
+
+
+.reg-outline {
+    border: 2px solid black;
+    border-radius: 5px;
+    /* width: 550px; */
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+}
+
+
+.registrationCouncil {
+    display: flex;
+    justify-content: space-between;
+}
